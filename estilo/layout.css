@@ -22,6 +22,9 @@ header img{
 }
 
 nav{
+    display: grid;
+    grid-template-areas: ". . . . .";
+
     grid-area: nav;
 }
 
