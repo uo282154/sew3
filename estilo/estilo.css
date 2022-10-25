@@ -23,6 +23,7 @@ main{
     background-color: black;
     margin:3%;
     padding: 2%;
+    min-width: 0%;
 }
 
 nav{
